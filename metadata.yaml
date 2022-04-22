@@ -1,0 +1,30 @@
+_repo: Hilaria-The-Festive-Board_67815
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/49
+    - https://en.wikipedia.org/wiki/Anonymous_work
+description: ''
+gutenberg_issued: '2022-04-11'
+identifiers:
+  gutenberg: '67815'
+language: en
+pgterms:marc904: https://archive.org/details/hilariafestiveb00morrgoog
+pgterms:marc905: 20201231102033anon
+pgterms:marc906: '1798'
+pgterms:marc907: GB
+production_note: deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :printed for the author,1798.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Hilaria. The Festive Board
+url: http://www.gutenberg.org/ebooks/67815
